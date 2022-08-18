@@ -29,3 +29,5 @@ class SomeClass123 {
 let t = SomeClass123().foo()
 
 
+func somenew(){}
+
